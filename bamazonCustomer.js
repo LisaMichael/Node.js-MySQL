@@ -1,5 +1,5 @@
-///////////////
-// VARIABLES //
+
+// VARIABLES 
 
 // Adding dependencies and storing into variables
 var mysql = require('mysql');

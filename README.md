@@ -23,6 +23,7 @@ This repository contains two applications:
 ### Customer View: bamazonCustomer.js 
 Description: 
 Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
+![image](https://user-images.githubusercontent.com/24717213/70877829-1f0cbe00-1f8d-11ea-8b9b-d5bb8492a133.png)
 
 The app should then prompt users with two messages.
 

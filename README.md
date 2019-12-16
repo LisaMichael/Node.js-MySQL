@@ -78,8 +78,18 @@ When a manager selects View Low Inventory, this will list all items with an inve
 ### Add to Inventory
 When a manager selects Add to Inventory, the application displays a prompt that will let the manager "add more" of any item currently in the store.
 
+![image](https://user-images.githubusercontent.com/24717213/70879005-d3a8de80-1f91-11ea-98ab-fc1749d452b6.png)
+
+
+![image](https://user-images.githubusercontent.com/24717213/70879092-1bc80100-1f92-11ea-8f0e-b4314d3a62c1.png)
+
 ### Add New Product 
 When a manager selects Add New Product, it allows the manager to add a completely new product to the store.
+
+![image](https://user-images.githubusercontent.com/24717213/70879127-3a2dfc80-1f92-11ea-9993-e7fe1f4d3859.png)
+
+![image](https://user-images.githubusercontent.com/24717213/70879170-60ec3300-1f92-11ea-9f12-3860f5b12c8f.png)
+
 
 ### Exit 
 Selecting Exit will exit you from the application 

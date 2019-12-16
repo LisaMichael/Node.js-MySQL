@@ -83,6 +83,8 @@ When a manager selects Add to Inventory, the application displays a prompt that 
 
 ![image](https://user-images.githubusercontent.com/24717213/70879092-1bc80100-1f92-11ea-8f0e-b4314d3a62c1.png)
 
+![image](https://user-images.githubusercontent.com/24717213/70879377-17501800-1f93-11ea-8f53-1fb02cd63224.png)
+
 ### Add New Product 
 When a manager selects Add New Product, it allows the manager to add a completely new product to the store.
 

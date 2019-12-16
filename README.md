@@ -61,12 +61,19 @@ Once the update goes through, show the customer the total cost of their purchase
 Running this application will:
 
 ### List a set of menu options:
+![image](https://user-images.githubusercontent.com/24717213/70878844-1b7b3600-1f91-11ea-9637-9fc56a4cf4e5.png)
+
 
 ### View Products for Sale: 
 When a manager selects View Products for Sale, the app should list every available item: the item IDs, names, prices, and quantities.
 
+![image](https://user-images.githubusercontent.com/24717213/70878887-482f4d80-1f91-11ea-89d5-763bbd2ffa31.png)
+
+
 ### View Low Inventory
 When a manager selects View Low Inventory, this will list all items with an inventory count lower than five.
+
+![image](https://user-images.githubusercontent.com/24717213/70878923-8462ae00-1f91-11ea-8cb9-37cef11cc9cd.png)
 
 ### Add to Inventory
 When a manager selects Add to Inventory, the application displays a prompt that will let the manager "add more" of any item currently in the store.

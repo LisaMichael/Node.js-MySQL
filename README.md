@@ -34,8 +34,38 @@ Once the customer has placed the order, your application should check if your st
 If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
 
 However, if your store does have enough of the product, you should fulfill the customer's order.
+This application will update the SQL database to reflect the remaining quantity.
+Once the update goes through, show the customer the total cost of their purchase.
 
 ### Manager View: bamazonManager.js
+
+Running this application will:
+
+### List a set of menu options:
+
+### View Products for Sale: 
+When a manager selects View Products for Sale, the app should list every available item: the item IDs, names, prices, and quantities.
+
+### View Low Inventory
+When a manager selects View Low Inventory, this will list all items with an inventory count lower than five.
+
+### Add to Inventory
+When a manager selects Add to Inventory, the application displays a prompt that will let the manager "add more" of any item currently in the store.
+
+### Add New Product 
+When a manager selects Add New Product, it allows the manager to add a completely new product to the store.
+
+### Exit 
+Selecting Exit will exit you from the application 
+
+
+
+
+
+
+
+
+
 
 
 

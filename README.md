@@ -49,6 +49,7 @@ However, if the store does have enough of the product, it will fulfill the custo
 
 This application will update the SQL database to reflect the remaining quantity.
 
+![image](https://user-images.githubusercontent.com/24717213/70878711-8b3cf100-1f90-11ea-86e2-992b740f9cf7.png)
 
 Once the update goes through, show the customer the total cost of their purchase.
 

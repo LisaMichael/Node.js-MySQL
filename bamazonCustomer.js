@@ -34,9 +34,9 @@ connection.connect(function (err) {
 var start = function () {
   connection.query('SELECT * FROM products', function (err, res) {
     for (var i = 0; i < res.length; i++) {
-      
+
       console.log('Item Id: ' + res[i].item_id + ' '
-        + ' Product: '  + res[i].product_name + ' ' + "DEPARTMENT: " + res[i].department_name + ' Price: $' + res[i].price + ' | ' + ' Available: ' + res[i].stock_quantity);
+        + ' Product: ' + res[i].product_name + ' ' + "DEPARTMENT: " + res[i].department_name + ' Price: $' + res[i].price + ' | ' + ' Available: ' + res[i].stock_quantity);
     }
     purchaseItem();
   })
@@ -74,10 +74,10 @@ var purchaseItem = function () {
       console.log(res);
       if (answer.stock_quantity > res[0].stock_quantity) {
         console.log('INSUFFICIENT QUANTITY');
-        
+
         quitBamazon();
       } else {
-       let priceTotal = res[0].price * answer.stock_quantity;
+        let priceTotal = res[0].price * answer.stock_quantity;
         currentDepartment = res[0].department_name;
         console.log('Your Total Amount is $' + priceTotal);
         console.log('Thank you for your order');

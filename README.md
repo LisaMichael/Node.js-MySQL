@@ -44,8 +44,16 @@ If not, the app responds back with message "Insufficient quantity!", and then pr
 
 
 However, if the store does have enough of the product, it will fulfill the customer's order.
+![image](https://user-images.githubusercontent.com/24717213/70878391-43699a00-1f8f-11ea-970f-eb21869170fa.png)
+
+
 This application will update the SQL database to reflect the remaining quantity.
+
+
 Once the update goes through, show the customer the total cost of their purchase.
+
+![image](https://user-images.githubusercontent.com/24717213/70878595-1c5f9800-1f90-11ea-838f-91b4298fcd88.png)
+
 
 ### Manager View: bamazonManager.js
 

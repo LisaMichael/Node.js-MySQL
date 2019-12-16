@@ -20,7 +20,7 @@ npm install mysql
 npm install inquirer 
 
 This repository contains two applications: 
-# Customer View: bamazonCustomer.js 
+### Customer View: bamazonCustomer.js 
 Description: 
 Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
@@ -35,7 +35,7 @@ If not, the app should log a phrase like Insufficient quantity!, and then preven
 
 However, if your store does have enough of the product, you should fulfill the customer's order.
 
-# Manager View: bamazonManager.js
+### Manager View: bamazonManager.js
 
 
 
